@@ -1,6 +1,6 @@
 {
   "name": "@zaeemzahid/gh-packages-test",
-  "version": "0.0.1a",
+  "version": "0.0.5",
   "repository": "https://github.com/mzaeemz/gh-packages-test",
   "description": "",
   "main": "index.js",
